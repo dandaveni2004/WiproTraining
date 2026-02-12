@@ -1,0 +1,7 @@
+C:\WiproTraining\Day4\Collection1\Collection1\bin\Debug\Collection1.exe.config
+C:\WiproTraining\Day4\Collection1\Collection1\bin\Debug\Collection1.exe
+C:\WiproTraining\Day4\Collection1\Collection1\bin\Debug\Collection1.pdb
+C:\WiproTraining\Day4\Collection1\Collection1\obj\Debug\Collection1.csproj.AssemblyReference.cache
+C:\WiproTraining\Day4\Collection1\Collection1\obj\Debug\Collection1.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day4\Collection1\Collection1\obj\Debug\Collection1.exe
+C:\WiproTraining\Day4\Collection1\Collection1\obj\Debug\Collection1.pdb

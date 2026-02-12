@@ -1,0 +1,10 @@
+C:\WiproTraining\Day4\MainProject\MainProject\bin\Debug\MainProject.exe.config
+C:\WiproTraining\Day4\MainProject\MainProject\bin\Debug\MainProject.exe
+C:\WiproTraining\Day4\MainProject\MainProject\bin\Debug\MainProject.pdb
+C:\WiproTraining\Day4\MainProject\MainProject\bin\Debug\ClsCalculation.dll
+C:\WiproTraining\Day4\MainProject\MainProject\bin\Debug\ClsCalculation.pdb
+C:\WiproTraining\Day4\MainProject\MainProject\obj\Debug\MainProject.csproj.AssemblyReference.cache
+C:\WiproTraining\Day4\MainProject\MainProject\obj\Debug\MainProject.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day4\MainProject\MainProject\obj\Debug\MainProj.90D20194.Up2Date
+C:\WiproTraining\Day4\MainProject\MainProject\obj\Debug\MainProject.exe
+C:\WiproTraining\Day4\MainProject\MainProject\obj\Debug\MainProject.pdb

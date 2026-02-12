@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproTraining\\Day4\\MainProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MainProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355460C9-F7E6-4F0B-9BCC-B6C78132A5EB}|MainProject\\MainProject.csproj|c:\\wiprotraining\\day4\\mainproject\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355460C9-F7E6-4F0B-9BCC-B6C78132A5EB}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD79B6D-2F5E-488E-8511-4EC604732A3F}|..\\ClsCalculation\\ClsCalculation.csproj|c:\\wiprotraining\\day4\\clscalculation\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355460C9-F7E6-4F0B-9BCC-B6C78132A5EB}|MainProject\\MainProject.csproj|c:\\wiprotraining\\day4\\mainproject\\mainproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainProject",
+              "DocumentMoniker": "C:\\WiproTraining\\Day4\\MainProject\\MainProject\\MainProject.csproj",
+              "RelativeDocumentMoniker": "MainProject\\MainProject.csproj",
+              "ToolTip": "C:\\WiproTraining\\Day4\\MainProject\\MainProject\\MainProject.csproj",
+              "RelativeToolTip": "MainProject\\MainProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-12T17:32:24.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day4\\ClsCalculation\\Calculation.cs",
+              "RelativeDocumentMoniker": "..\\ClsCalculation\\Calculation.cs",
+              "ToolTip": "C:\\WiproTraining\\Day4\\ClsCalculation\\Calculation.cs",
+              "RelativeToolTip": "..\\ClsCalculation\\Calculation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:18:24.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day4\\MainProject\\MainProject\\Program.cs",
+              "RelativeDocumentMoniker": "MainProject\\Program.cs",
+              "ToolTip": "C:\\WiproTraining\\Day4\\MainProject\\MainProject\\Program.cs*",
+              "RelativeToolTip": "MainProject\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T17:17:42.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

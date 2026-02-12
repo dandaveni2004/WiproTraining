@@ -1,0 +1,7 @@
+C:\WiproTraining\Day4\OOPs\OOPs\bin\Debug\OOPs.exe.config
+C:\WiproTraining\Day4\OOPs\OOPs\bin\Debug\OOPs.exe
+C:\WiproTraining\Day4\OOPs\OOPs\bin\Debug\OOPs.pdb
+C:\WiproTraining\Day4\OOPs\OOPs\obj\Debug\OOPs.csproj.AssemblyReference.cache
+C:\WiproTraining\Day4\OOPs\OOPs\obj\Debug\OOPs.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day4\OOPs\OOPs\obj\Debug\OOPs.exe
+C:\WiproTraining\Day4\OOPs\OOPs\obj\Debug\OOPs.pdb
