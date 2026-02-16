@@ -1,0 +1,10 @@
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\bin\Debug\OOPsEx.exe.config
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\bin\Debug\OOPsEx.exe
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\bin\Debug\OOPsEx.pdb
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\bin\Debug\ClsCalculation.dll
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\bin\Debug\ClsCalculation.pdb
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\obj\Debug\OOPsEx.csproj.AssemblyReference.cache
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\obj\Debug\OOPsEx.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\obj\Debug\OOPsEx.csproj.Up2Date
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\obj\Debug\OOPsEx.exe
+C:\WiproTraining\Day6\OOPsEx\OOPsEx\obj\Debug\OOPsEx.pdb

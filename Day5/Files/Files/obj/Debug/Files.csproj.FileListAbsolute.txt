@@ -1,0 +1,7 @@
+C:\WiproTraining\Day5\Files\Files\bin\Debug\Files.exe.config
+C:\WiproTraining\Day5\Files\Files\bin\Debug\Files.exe
+C:\WiproTraining\Day5\Files\Files\bin\Debug\Files.pdb
+C:\WiproTraining\Day5\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+C:\WiproTraining\Day5\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day5\Files\Files\obj\Debug\Files.exe
+C:\WiproTraining\Day5\Files\Files\obj\Debug\Files.pdb
