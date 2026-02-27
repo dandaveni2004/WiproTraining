@@ -1,0 +1,7 @@
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\bin\Debug\AttributesExamples.exe.config
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\bin\Debug\AttributesExamples.exe
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\bin\Debug\AttributesExamples.pdb
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\obj\Debug\AttributesExamples.csproj.AssemblyReference.cache
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\obj\Debug\AttributesExamples.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\obj\Debug\AttributesExamples.exe
+C:\WiproTraining\Day8\AttributesExamples\AttributesExamples\obj\Debug\AttributesExamples.pdb

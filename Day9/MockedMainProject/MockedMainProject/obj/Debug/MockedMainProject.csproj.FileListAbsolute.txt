@@ -1,0 +1,7 @@
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\bin\Debug\MockedMainProject.exe.config
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\bin\Debug\MockedMainProject.exe
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\bin\Debug\MockedMainProject.pdb
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\obj\Debug\MockedMainProject.csproj.AssemblyReference.cache
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\obj\Debug\MockedMainProject.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\obj\Debug\MockedMainProject.exe
+C:\WiproTraining\Day9\MockedMainProject\MockedMainProject\obj\Debug\MockedMainProject.pdb

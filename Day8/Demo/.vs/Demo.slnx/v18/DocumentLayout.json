@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproTraining\\Day8\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0F852E-E483-4E41-9F41-4BC2AF84CE3F}|Demo\\Demo.csproj|c:\\wiprotraining\\day8\\demo\\demo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0F852E-E483-4E41-9F41-4BC2AF84CE3F}|Demo\\Demo.csproj|solutionrelative:demo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D4D8C-F451-4A94-91D0-04BB393BBC68}|..\\Demo.Tests\\Demo.Tests.csproj|c:\\wiprotraining\\day8\\demo.tests\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day8\\Demo\\Demo\\Student.cs",
+              "RelativeDocumentMoniker": "Demo\\Student.cs",
+              "ToolTip": "C:\\WiproTraining\\Day8\\Demo\\Demo\\Student.cs",
+              "RelativeToolTip": "Demo\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:32:06.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentTest.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day8\\Demo.Tests\\StudentTest.cs",
+              "RelativeDocumentMoniker": "..\\Demo.Tests\\StudentTest.cs",
+              "ToolTip": "C:\\WiproTraining\\Day8\\Demo.Tests\\StudentTest.cs",
+              "RelativeToolTip": "..\\Demo.Tests\\StudentTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:31:30.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

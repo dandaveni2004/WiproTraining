@@ -1,0 +1,7 @@
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.AssemblyReference.cache
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\WiproTraining\Day8\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

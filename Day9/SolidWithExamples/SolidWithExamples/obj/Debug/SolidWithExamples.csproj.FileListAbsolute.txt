@@ -1,0 +1,7 @@
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\bin\Debug\SolidWithExamples.exe.config
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\bin\Debug\SolidWithExamples.exe
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\bin\Debug\SolidWithExamples.pdb
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\obj\Debug\SolidWithExamples.csproj.AssemblyReference.cache
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\obj\Debug\SolidWithExamples.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\obj\Debug\SolidWithExamples.exe
+C:\WiproTraining\Day9\SolidWithExamples\SolidWithExamples\obj\Debug\SolidWithExamples.pdb

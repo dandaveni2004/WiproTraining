@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MockedExampleProject.Tests/MockedExampleProject.Tests.csproj" />
+  <Project Path="MockedMainProject/MockedMainProject.csproj" />
+</Solution>

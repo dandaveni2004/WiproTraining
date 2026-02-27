@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../ClsReflectionExample1/ClsReflectionExample1.csproj" />
+  <Project Path="../ClsReflectionExample3.cs/ClsReflectionExample3.cs.csproj" />
+  <Project Path="ReflectionExamples/ReflectionExamples.csproj" />
+</Solution>

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproTraining\\Day9\\DemoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5564DAD0-C20C-4012-9B79-4A9FA3CE603F}|DemoProject\\DemoProject.csproj|C:\\WiproTraining\\Day9\\DemoProject\\demoproject\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564DAD0-C20C-4012-9B79-4A9FA3CE603F}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6002A95B-FF31-E857-4BC8-15BCDC19AC20}|DemoProject.Tests\\DemoProject.Tests.csproj|c:\\wiprotraining\\day9\\demoproject\\demoproject.tests\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6002A95B-FF31-E857-4BC8-15BCDC19AC20}|DemoProject.Tests\\DemoProject.Tests.csproj|solutionrelative:demoproject.tests\\studenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ganes\\AppData\\Local\\Temp\\5aa7db3e-08b2-48ba-9705-5c4aac3a1743_Day9_P1.zip.743\\Day9_P1\\DemoProject.Tests\\StudentTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564DAD0-C20C-4012-9B79-4A9FA3CE603F}|DemoProject\\DemoProject.csproj|C:\\WiproTraining\\Day9\\DemoProject\\demoproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5564DAD0-C20C-4012-9B79-4A9FA3CE603F}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5564DAD0-C20C-4012-9B79-4A9FA3CE603F}|DemoProject\\DemoProject.csproj|c:\\wiprotraining\\day9\\demoproject\\demoproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoProject",
+              "DocumentMoniker": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject\\DemoProject.csproj",
+              "RelativeDocumentMoniker": "DemoProject\\DemoProject.csproj",
+              "ToolTip": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject\\DemoProject.csproj",
+              "RelativeToolTip": "DemoProject\\DemoProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-18T06:18:21.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject\\Demo.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Demo.cs",
+              "ToolTip": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject\\Demo.cs",
+              "RelativeToolTip": "DemoProject\\Demo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:15:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentTest.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject.Tests\\StudentTest.cs",
+              "RelativeDocumentMoniker": "DemoProject.Tests\\StudentTest.cs",
+              "ToolTip": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject.Tests\\StudentTest.cs",
+              "RelativeToolTip": "DemoProject.Tests\\StudentTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:14:59.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTest.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\AppData\\Local\\Temp\\5aa7db3e-08b2-48ba-9705-5c4aac3a1743_Day9_P1.zip.743\\Day9_P1\\DemoProject.Tests\\StudentTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\ganes\\AppData\\Local\\Temp\\5aa7db3e-08b2-48ba-9705-5c4aac3a1743_Day9_P1.zip.743\\Day9_P1\\DemoProject.Tests\\StudentTest.cs",
+              "ToolTip": "C:\\Users\\ganes\\AppData\\Local\\Temp\\5aa7db3e-08b2-48ba-9705-5c4aac3a1743_Day9_P1.zip.743\\Day9_P1\\DemoProject.Tests\\StudentTest.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\ganes\\AppData\\Local\\Temp\\5aa7db3e-08b2-48ba-9705-5c4aac3a1743_Day9_P1.zip.743\\Day9_P1\\DemoProject.Tests\\StudentTest.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:14:47.835Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject\\Student.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Student.cs",
+              "ToolTip": "C:\\WiproTraining\\Day9\\DemoProject\\DemoProject\\Student.cs",
+              "RelativeToolTip": "DemoProject\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T06:14:21.194Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
