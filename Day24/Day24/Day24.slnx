@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="day24.client/day24.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Day24.Server/Day24.Server.csproj" />
+</Solution>

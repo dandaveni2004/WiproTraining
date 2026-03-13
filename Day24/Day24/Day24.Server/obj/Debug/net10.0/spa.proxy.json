@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60787",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\WiproTraining\\Day24\\Day24\\Day24.Server\\..\\day24.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
