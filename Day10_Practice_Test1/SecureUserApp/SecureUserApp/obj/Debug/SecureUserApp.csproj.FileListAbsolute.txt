@@ -1,0 +1,6 @@
+C:\WiproTraining\Day10_Practice_Test1\SecureUserApp\SecureUserApp\bin\Debug\SecureUserApp.dll
+C:\WiproTraining\Day10_Practice_Test1\SecureUserApp\SecureUserApp\bin\Debug\SecureUserApp.pdb
+C:\WiproTraining\Day10_Practice_Test1\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.csproj.AssemblyReference.cache
+C:\WiproTraining\Day10_Practice_Test1\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day10_Practice_Test1\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.dll
+C:\WiproTraining\Day10_Practice_Test1\SecureUserApp\SecureUserApp\obj\Debug\SecureUserApp.pdb

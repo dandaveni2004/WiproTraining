@@ -1,0 +1,28 @@
+body{
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+}
+
+.menu-container{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 40px;
+}
+
+.card{
+width: 300px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+@media (max-width:768px){
+
+.menu-container{
+flex-direction: column;
+}
+
+.card{
+width: 90%;
+}
+
+}

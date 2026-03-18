@@ -1,0 +1,6 @@
+C:\WiproTraining\Day9_Practice_Test1\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\WiproTraining\Day9_Practice_Test1\CalculatorLibrary\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\WiproTraining\Day9_Practice_Test1\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\WiproTraining\Day9_Practice_Test1\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day9_Practice_Test1\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\WiproTraining\Day9_Practice_Test1\CalculatorLibrary\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

@@ -1,0 +1,10 @@
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\bin\Debug\SolidDemo.App.exe.config
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\bin\Debug\SolidDemo.App.exe
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\bin\Debug\SolidDemo.App.pdb
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\bin\Debug\SolidDemo.Core.dll
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\bin\Debug\SolidDemo.Core.pdb
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\obj\Debug\SolidDemo.App.csproj.AssemblyReference.cache
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\obj\Debug\SolidDemo.App.csproj.CoreCompileInputs.cache
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\obj\Debug\SolidDem.461278B6.Up2Date
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\obj\Debug\SolidDemo.App.exe
+C:\WiproTraining\Day10_Practice_Test2\SolidDemo.App\obj\Debug\SolidDemo.App.pdb

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SolidDemo.App/SolidDemo.App.csproj" />
+  <Project Path="SolidDemo.Core/SolidDemo.Core.csproj" />
+</Solution>

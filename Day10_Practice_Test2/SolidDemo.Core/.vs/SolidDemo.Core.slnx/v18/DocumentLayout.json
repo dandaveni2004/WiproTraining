@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96D0150C-A006-4E2D-9FE4-1AC153FECDDA}|..\\SolidDemo.App\\SolidDemo.App.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\inventoryreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|c:\\wiprotraining\\day10_practice_test2\\soliddemo.core\\soliddemo.core\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF70926-90DA-4C26-8254-D3E3F513EBA6}|SolidDemo.Core\\SolidDemo.Core.csproj|solutionrelative:soliddemo.core\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\Logger.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\Logger.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\Logger.cs",
+              "RelativeToolTip": "SolidDemo.Core\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:30:46.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ReportService.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\ReportService.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ReportService.cs",
+              "RelativeToolTip": "SolidDemo.Core\\ReportService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:30:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryReport.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\InventoryReport.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\InventoryReport.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\InventoryReport.cs",
+              "RelativeToolTip": "SolidDemo.Core\\InventoryReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:29:27.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\SalesReport.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\SalesReport.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\SalesReport.cs",
+              "RelativeToolTip": "SolidDemo.Core\\SalesReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:28:39.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\Report.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\Report.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\Report.cs",
+              "RelativeToolTip": "SolidDemo.Core\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:27:56.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelFormatter.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ExcelFormatter.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\ExcelFormatter.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ExcelFormatter.cs",
+              "RelativeToolTip": "SolidDemo.Core\\ExcelFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:26:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfFormatter.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\PdfFormatter.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\PdfFormatter.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\PdfFormatter.cs",
+              "RelativeToolTip": "SolidDemo.Core\\PdfFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:26:13.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\IReportFormatter.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\IReportFormatter.cs",
+              "RelativeToolTip": "SolidDemo.Core\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:24:58.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\ReportGenerator.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ReportGenerator.cs",
+              "RelativeToolTip": "SolidDemo.Core\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:22:56.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.App\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SolidDemo.App\\Program.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.App\\Program.cs",
+              "RelativeToolTip": "..\\SolidDemo.App\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:20:37.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "SolidDemo.Core\\ReportSaver.cs",
+              "ToolTip": "C:\\WiproTraining\\Day10_Practice_Test2\\SolidDemo.Core\\SolidDemo.Core\\ReportSaver.cs",
+              "RelativeToolTip": "SolidDemo.Core\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:19:26.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
